@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\bin\Debug\netcoreapp2.1\Null_Coalescing_Operator.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\bin\Debug\netcoreapp2.1\Null_Coalescing_Operator.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\bin\Debug\netcoreapp2.1\Null_Coalescing_Operator.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\bin\Debug\netcoreapp2.1\Null_Coalescing_Operator.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\bin\Debug\netcoreapp2.1\Null_Coalescing_Operator.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\obj\Debug\netcoreapp2.1\Null_Coalescing_Operator.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\obj\Debug\netcoreapp2.1\Null_Coalescing_Operator.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\obj\Debug\netcoreapp2.1\Null_Coalescing_Operator.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\obj\Debug\netcoreapp2.1\Null_Coalescing_Operator.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\obj\Debug\netcoreapp2.1\Null_Coalescing_Operator.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\Null_Coalescing_Operator\obj\Debug\netcoreapp2.1\Null_Coalescing_Operator.pdb
